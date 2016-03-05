@@ -1,10 +1,10 @@
 # ProximityVoipProject (UE Version 4.10)
 ##English version:
 
-### To project worked:
+#### To project worked:
 * Install the [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
 
-### If you want to make yourself the system at the project:
+#### If you want to make yourself the system at the project:
 * Install the [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
 * Install the [Victory Plugin](https://forums.unrealengine.com/showthread.php?3851-%2839%29-Rama-s-Extra-Blueprint-Nodes-for-You-as-a-Plugin-No-C-Required!)
 * Create Sound Class [Screen 1](http://imgur.com/xXYChFe)
@@ -14,10 +14,10 @@
 
 ##Русская версия:
 
-### Чтобы проект работал, нужно
+#### Чтобы проект работал, нужно
 * Установить [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
 
-### Если хотите сделал данную систему у себя в проекте, то:
+#### Если хотите сделал данную систему у себя в проекте, то:
 * Установите [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
 * Установите [Victory Plugin](https://forums.unrealengine.com/showthread.php?3851-%2839%29-Rama-s-Extra-Blueprint-Nodes-for-You-as-a-Plugin-No-C-Required!)
 * Создайте Sound Class [Screen 1](http://imgur.com/xXYChFe)
