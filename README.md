@@ -22,5 +22,5 @@
 * Установите [Victory Plugin](https://forums.unrealengine.com/showthread.php?3851-%2839%29-Rama-s-Extra-Blueprint-Nodes-for-You-as-a-Plugin-No-C-Required!)
 * Создайте Sound Class [Скриншот 1](http://imgur.com/xXYChFe)
 * В настройках проекта установите этот класс [Скриншот 2](http://imgur.com/cYGADj0)
-* Сделайте систему, как показано у меня на скриншотах [Скриншот 3](http://imgur.com/AaIus84) and [Скриншот 4](http://imgur.com/7L08ByT)
+* Сделайте систему, как показано у меня на скриншотах [Скриншот 3](http://imgur.com/AaIus84) и [Скриншот 4](http://imgur.com/7L08ByT)
 * Готово!
