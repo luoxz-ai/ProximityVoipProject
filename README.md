@@ -7,9 +7,9 @@
 #### If you want to make yourself the system at the project:
 * Install the: [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
 * Install the: [Victory Plugin](https://forums.unrealengine.com/showthread.php?3851-%2839%29-Rama-s-Extra-Blueprint-Nodes-for-You-as-a-Plugin-No-C-Required!)
-* Create Sound Class: [Screen 1](http://imgur.com/xXYChFe)
-* In Project Settings set this class: [Screen 2](http://imgur.com/cYGADj0)
-* Make a chart like mine: [Screen 3](http://imgur.com/AaIus84) and [Screen 4](http://imgur.com/7L08ByT)
+* Create Sound Class: [Screen 1](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20Sound%20Class.png)
+* In Project Settings set this class: [Screen 2](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20Project%20Settings.png)
+* Make a chart like mine: [Screen 3](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20System%201.png) and [Screen 4](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20System%202.png)
 * Done!
 
 ##Русская версия:
@@ -20,7 +20,7 @@
 #### Если хотите сделал данную систему у себя в проекте, то:
 * Установите: [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
 * Установите: [Victory Plugin](https://forums.unrealengine.com/showthread.php?3851-%2839%29-Rama-s-Extra-Blueprint-Nodes-for-You-as-a-Plugin-No-C-Required!)
-* Создайте Sound Class: [Скриншот 1](http://imgur.com/xXYChFe)
-* В настройках проекта установите этот класс: [Скриншот 2](http://imgur.com/cYGADj0)
-* Сделайте систему, как показано у меня на скриншотах: [Скриншот 3](http://imgur.com/AaIus84) и [Скриншот 4](http://imgur.com/7L08ByT)
+* Создайте Sound Class: [Скриншот 1](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20Sound%20Class.png)
+* В настройках проекта установите этот класс: [Скриншот 2](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20Project%20Settings.png)
+* Сделайте систему, как показано у меня на скриншотах: [Скриншот 3](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20System%201.png) и [Скриншот 4](https://github.com/thedark174/ProximityVoipProject/blob/master/Screenshots/Screenshot%20System%202.png)
 * Готово!
