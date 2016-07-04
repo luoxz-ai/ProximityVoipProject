@@ -1,4 +1,4 @@
-# ProximityVoipProject (UE Version 4.10)
+# ProximityVoipProject
 ##English version:
 
 #### To project worked:
