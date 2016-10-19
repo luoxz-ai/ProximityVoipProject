@@ -1,5 +1,4 @@
 # ProximityVoipProject
-##English version:
 
 #### To project worked:
 * Install the [Advanced Sessions Plugin](https://forums.unrealengine.com/showthread.php?69901-Advanced-Sessions-Plugin)
